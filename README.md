@@ -49,9 +49,11 @@ The device uses a purely analog circuit design, eliminating the complexity and p
 - **Output:** RGB LED for user feedback
 
 **Battery Notes:**
-- We recommend using a pre-protected LiPo cell from a reputable supplier
+- I recommend using a pre-protected LiPo cell from a reputable supplier
 - Any LiPo cell ≤5mm thick and ≤12mm wide should fit
 - For smaller capacity batteries, adjust charging current by modifying R4 resistor value
+
+**If you do not want to use a lithium cell, the device could be modified to use only USB-Power or a standard AA or AAA battery. If there is interest in changes like this please let me know by opening an issue.**
 
 **Documentation & PCB:**
 - Schematic available as PDF
