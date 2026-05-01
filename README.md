@@ -24,9 +24,9 @@ Simply hold the power button to activate the device. When the tip approaches a m
 - Instant visual feedback
 
 <div align="center">
-  <img src="Images/No_Pole.jpg" alt="Device powered on (green)" width="250"/>
-  <img src="Images/North_Pole.jpg" alt="North pole detected (red)" width="250"/>
-  <img src="Images/South_Pole.jpg" alt="South pole detected (blue)" width="250"/>
+  <img src="Images/No_Pole.jpg" alt="Device powered on (green)" height="100"/>
+  <img src="Images/North_Pole.jpg" alt="North pole detected (red)" height="100"/>
+  <img src="Images/South_Pole.jpg" alt="South pole detected (blue)" height="100"/>
 </div>
 
 ## Specifications
