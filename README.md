@@ -51,9 +51,10 @@ The device uses a purely analog circuit design, eliminating the complexity and p
 **Battery Notes:**
 - I recommend using a pre-protected LiPo cell from a reputable supplier
 - Any LiPo cell ≤5mm thick and ≤12mm wide should fit
+- Using the JST 2.0 PH connector does currently not fit into the case. Solder the battery directly to the pads.
 - For smaller capacity batteries, adjust charging current by modifying R4 resistor value
 
-**If you do not want to use a lithium cell, the device could be modified to use only USB-Power or a standard AA or AAA battery. If there is interest in changes like this please let me know by opening an issue.**
+⚠️ **If you do not want to use a lithium cell, the device could be modified to use only USB-Power or a standard AA or AAA battery. If there is interest in changes like this please let me know by opening an issue.**
 
 **Documentation & PCB:**
 - Schematic available as PDF
